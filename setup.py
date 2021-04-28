@@ -11,7 +11,7 @@ setuptools.setup(
     description="A past tense package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Haardispro/demopackage",
+    url="https://github.com/Haardispro/module2",
     packages=setuptools.find_packages(),
     classifiers=(
         "Programming Language :: Python :: 3",
