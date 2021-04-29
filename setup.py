@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pasttense",
-    version="1.0.0",
+    version="3.0.0",
     author="Haard Majmudar",
     author_email="haardmajmudar2827@email.com",
     description="A past tense package",

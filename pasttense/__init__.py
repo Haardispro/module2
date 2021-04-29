@@ -1,1 +1,1 @@
-name = 'pasttense'
+name='pasttense'
