@@ -1,7 +1,11 @@
 LICENSE
 README.md
 setup.py
+pasttense/__init__.py
+pasttense/pasttense.py
 pasttense.egg-info/PKG-INFO
 pasttense.egg-info/SOURCES.txt
 pasttense.egg-info/dependency_links.txt
 pasttense.egg-info/top_level.txt
+pasttense/past_tense/__init__.py
+pasttense/past_tense/past_tense.py
